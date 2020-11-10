@@ -1,2 +1,2 @@
 # MEAN-Comands
-comandos mas utilizados JS, MB, Angular, HTML, CCS, Express, Terminal
+codigo JS, nodeJS, MB, Angular, HTML, CCS, Express, Terminal
