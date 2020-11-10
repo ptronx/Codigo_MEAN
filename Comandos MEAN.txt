@@ -1,45 +1,87 @@
 #JavaScript
 
-const //constant
-var //global var
-let // diference var global and local
+    const //constant
+    var //global var
+    let // diference var global and local
 
-function(){}
-x = () => {}
+    function(){}
+    x = () => {}
 
 #NodeJS
 
-npm init
+    npm init // terminal start a doc 
+
+    node app.js // terminal run app 
 
 #Express
 
+    npm install express  //terminal install temporal
+
+    const express = require('express')
+    const app = express()
+    const port = 3000
+
+    app.get('/', (req, res) => {
+    res.send('Hello World!')
+    })
+
+    app.listen(port, () => {
+    console.log(`Example app listening at http://localhost:${port}`)
+    })
+
+
+    npm install express-generator -g //app generator 
+
+    //para otorgar permisos ejecutar scripts en terminal{
+        get-executionpolicy
+
+        set-executionpolicy -scope currentuser
+        : unrestricted
+
+        set-executionpolicy -scope currentuser
+        : restricted
+
+        get-executionpolicy
+
+    }
+
+    express --view=pug myapp //ejecutar estructura app
+
+    npm install
+    npm start
+
 #MongoDB
-Comand CRUDE
-create operations:
-db.collection.insertOne()
-db.collection.insertMany()
 
-read operations:
-db.collection.find()
+    Comand CRUDE
+    create operations:
+    db.collection.insertOne()
+    db.collection.insertMany()
 
-update operations:
-db.collection.updateOne()
-db.collection.updateMany()
-db.collection.replaceOne()
+    read operations:
+    db.collection.find()
 
-delete operations:
-db.collection.deleteOne()
-db.collection.deleteMany()
+    update operations:
+    db.collection.updateOne()
+    db.collection.updateMany()
+    db.collection.replaceOne()
+
+    delete operations:
+    db.collection.deleteOne()
+    db.collection.deleteMany()
 
 #Angular
 
+
 #Comand Terminal
-cd..
-clear
+
+    cd..
+    clear
+
+    mkdir 'name' //create new directory
 
 #git
-init // start git document
-add
-commit
+    init // start git document
+    add
+    commit
 
 #github
