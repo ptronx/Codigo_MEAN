@@ -1,0 +1,43 @@
+#JavaScript
+
+const //constant
+var //global var
+let // diference var global and local
+
+function(){}
+x = () => {}
+
+#NodeJS
+
+#Express
+
+#MongoDB
+Comand CRUDE
+create operations:
+db.collection.insertOne()
+db.collection.insertMany()
+
+read operations:
+db.collection.find()
+
+update operations:
+db.collection.updateOne()
+db.collection.updateMany()
+db.collection.replaceOne()
+
+delete operations:
+db.collection.deleteOne()
+db.collection.deleteMany()
+
+#Angular
+
+#Comand Terminal
+cd..
+clear
+
+#git
+init // start git document
+add
+commit
+
+#github
