@@ -17,7 +17,7 @@ create operations:
 db.collection.insertOne()
 db.collection.insertMany()
 
-reed operations:
+read operations:
 db.collection.find()
 
 update operations:
@@ -37,6 +37,7 @@ clear
 
 #git
 init // start git document
-
+add
+commit
 
 #github
