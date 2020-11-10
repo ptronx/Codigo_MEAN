@@ -9,6 +9,8 @@ x = () => {}
 
 #NodeJS
 
+npm init
+
 #Express
 
 #MongoDB
