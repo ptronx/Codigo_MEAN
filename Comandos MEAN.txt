@@ -1,8 +1,8 @@
-#Apuntes JavaScript
+#JavaScript
 
-const //constante
-var //variable global
-let // variable diferencia entre local y global
+const //constant
+var //global var
+let // diference var global and local
 
 function(){}
 x = () => {}
@@ -11,31 +11,32 @@ x = () => {}
 
 #Express
 
-#Comandos MongoDB
-Comandos CRUDE
-Crear operaciones:
+#MongoDB
+Comand CRUDE
+create operations:
 db.collection.insertOne()
 db.collection.insertMany()
 
-Leer operaciones:
+reed operations:
 db.collection.find()
 
-Actualizar operaciones:
+update operations:
 db.collection.updateOne()
 db.collection.updateMany()
 db.collection.replaceOne()
 
-Eliminar operaciones:
+delete operations:
 db.collection.deleteOne()
 db.collection.deleteMany()
 
 #Angular
 
-#Comandos Terminal
+#Comand Terminal
 cd..
+clear
 
 #git
-init // iniciar un seguimiento git del archivo
+init // start git document
 
 
 #github
